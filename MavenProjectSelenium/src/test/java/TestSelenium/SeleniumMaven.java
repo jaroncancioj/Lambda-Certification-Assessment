@@ -100,7 +100,7 @@ public class SeleniumMaven {
 		if (TotalEnv == Total) {
 			System.out.println("Ok. Total("+TotalCartInt+")+Envio("+Envio+") = $ "+TotalEnv);
 			
-		} else System.out.println("El Total del producto agregado no coincide /TotalEnv=$"+TotalEnv);
+		} else System.out.println("El Total del producto agregado no coincide todavía :( /TotalEnv=$"+TotalEnv);
 		
 		
 		
